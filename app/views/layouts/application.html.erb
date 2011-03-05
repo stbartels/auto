@@ -10,5 +10,8 @@
 
 <%= yield %>
 
+<p>
+	<%= link_to_unless_current "View Customers", :controller => "customers", :action => "index"%> | <%= link_to_unless_current "View Services", :controller => "services", :action => "index" %>
+</p>
 </body>
 </html>

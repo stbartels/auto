@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  service_type: MyString
+  description: MyText
+  price: 9.99
+
+two:
+  service_type: MyString
+  description: MyText
+  price: 9.99

@@ -1,0 +1,15 @@
+body 
+	{
+		width: 800px;
+		margin: 0 auto;
+	}
+
+.display_table
+	{
+		width: 100%;
+	}
+.description_width
+	{
+		width: 50%;
+	}
+
