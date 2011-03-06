@@ -9,3 +9,8 @@ two:
   service_type: MyString
   description: MyText
   price: 9.99
+  
+change_tires:
+    service_type: Changing Tires
+    description: Change all tire on the vehicle...
+    price: 50.97
